@@ -7,13 +7,12 @@
   </a>
 </p>
 
+<h1 align="center">
+  Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Isaiah!
+</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
-  </a>
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 </p>
 
 <h2>Summary</h2>
