@@ -4,10 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isaiah-avweromre" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-FF6D00?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-    <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+    <a href="https://medium.com/@Axasco" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-2F2F2F?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
