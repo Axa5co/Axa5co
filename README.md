@@ -31,11 +31,27 @@ Passionate about solving complex problems, I work on proactive defense strategie
 
 ## Tools
 
+### Penetration Testing
+<div>
+<img src="https://img.shields.io/badge/-Burp%20Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/-BloodHound-8B0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mimikatz-6A1B9A?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/-NetExec-2E8B57?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certipy-FF8C00?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-4B275F?&style=for-the-badge&logo=Hydra&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aircrack--ng-1E90FF?style=for-the-badge&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hashcat-4B0082?style=for-the-badge&logo=Hashcat&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDUMP-EF3B2D?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-777BB4?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -52,6 +68,18 @@ Passionate about solving complex problems, I work on proactive defense strategie
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Threat Inteligence
+<div>
+<img src="https://img.shields.io/badge/-YARA-FF4500?&style=for-the-badge&logo=yara&logoColor=white" />
+<img src="https://img.shields.io/badge/-MISP-FFD700?&style=for-the-badge&logo=MISP&logoColor=white" />
+</div>
+
+### Digital Forensics
+<div>
+<img src="https://img.shields.io/badge/-Volatility-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-4CAF50?&style=for-the-badge&logo=autopsy&logoColor=white" />
+<img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
+</div>
 
 
 
