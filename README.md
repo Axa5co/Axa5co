@@ -1,6 +1,20 @@
 <h1 align="center">
   Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Isaiah Avweromre!
 </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
+  </a>
+  <a href="https://github.com/YOURUSERNAME">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32"/>
+  </a>
+</p>
 
 <h2>Summary</h2>
 As a cybersecurity professional with over one year of experience, I specialize in protecting digital assets from evolving cyber threats. My expertise includes <b>penetration testing, ethical hacking, red teaming,</b> and <b>cloud security.</b> I am skilled at identifying and mitigating vulnerabilities in networks, web applications, and cloud environments to ensure robust comprehensive protection.<br><br/>
