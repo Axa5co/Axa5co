@@ -7,10 +7,12 @@ As a cybersecurity professional with over one year of experience, I specialize i
 My goal is to improve and secure the cyberspace for everyone by dedicating myself to continuous learning, sharing insights with the community, and motivating others to do same.
 
 <h2>Credentials:</h2>
-- B.Eng in Engineering from UNIBEN.
-- 4 certifications, including PNPT, PJPT, CNSP, and CAP.
-- Pwned 35 HTB machines and mastered 122 THM rooms.
-- Pursuing CPTS certification and MS in Cybersecurity at Miva University.
----
+<ul>
+<li> B.Eng in Engineering from UNIBEN. </li>
+<li> 4 certifications, including PNPT, PJPT, CNSP, and CAP. </li>
+<li> Pwned 35 HTB machines and mastered 122 THM rooms. </li>
+<li> Pursuing CPTS certification and MS in Cybersecurity at Miva University. </li>
+</ul>
+
 
 <h2> 🤳 Connect with me:</h2>
