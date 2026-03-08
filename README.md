@@ -1,4 +1,5 @@
-<h1>Hi, I'm Isaiah!</h1>
+<div align="center"><h1>Hello, I'm Isaiah 👋</h1></div>
+
 
 ---
 <h2>Summary</h2>
