@@ -1,16 +1,14 @@
 <h1 align="center">
   Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Isaiah Avweromre!
 </h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
