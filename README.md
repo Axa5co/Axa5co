@@ -12,7 +12,7 @@
 
 <h2>Summary</h2>
 As a cybersecurity analyst, I specialize in protecting digital assets from evolving threats through vulnerability assessments, penetration testing, and SOC operations. I focus on identifying, mitigating, and managing cyber risks to ensure security and compliance.<br><br/>
-Passionate about solving complex problems, I work on proactive defense strategies that strengthen resilience and safeguard critical systems. I combine technical skills with strategic thinking to deliver practical, real-world security outcomes.
+Passionate about solving complex problems, I work on proactive defense strategies that strengthen resilience and safeguard critical systems. I combine technical skills with strategic thinking to deliver practical, and real-world security outcomes.
 
 <h2>Credentials:</h2>
 <ul>
