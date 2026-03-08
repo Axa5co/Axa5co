@@ -1,5 +1,4 @@
 <h1>Hi, I'm Isaiah!</h1>
-<b>Offensive Security & Cloud Specialist</b>
 
 ---
 <h2>Summary</h2>
