@@ -8,7 +8,11 @@
   <a href="https://medium.com/@Axasco" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
+</a>
 </p>
+
 
 <h2>Summary</h2>
 As a cybersecurity professional with over one year of experience, I specialize in protecting digital assets from evolving cyber threats. My expertise includes <b>penetration testing, ethical hacking, red teaming,</b> and <b>cloud security.</b> I am skilled at identifying and mitigating vulnerabilities in networks, web applications, and cloud environments to ensure robust comprehensive protection.<br><br/>
