@@ -26,7 +26,8 @@ Passionate about solving complex problems, I work on proactive defense strategie
 | Network Traffic Analysis                      | <a href="https://github.com/Chior/">Network Traffic Analysis with Wireshark</a> |
 | Memory Forensics                              | <a href="https://github.com/Ch/Memory-Forensi">Memory Analysis of a compromised windows machine using volatility</a> |
 | Endpoint Detection and Response               |            
-| Incident Response Planning and Execution      |                             
+| Incident Response Planning and Execution
+| Splunk, SIEM, Threat Detection, Log Analysis, Security Analytics|   Splunk Threat Hunting                         
 | Case Management with TheHive                  |                             
 
 ## Tools
@@ -81,14 +82,18 @@ Passionate about solving complex problems, I work on proactive defense strategie
 <img src="https://img.shields.io/badge/-FTK_Imager-0078D7?&style=for-the-badge&logo=forensictoolkit&logoColor=white" />
 </div>
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-TCM%20PNPT-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCM%20PJPT-FF5733?&style=for-the-badge&logo=TCM&logoColor=white" />
+<img src="https://img.shields.io/badge/-SecOps%20CNSP-007ACC?&style=for-the-badge&logo=SecOps&logoColor=white" />
+<img src="https://img.shields.io/badge/-SecOps%20CAP-228B22?&style=for-the-badge&logo=SecOps&logoColor=white" />
+</div>
+
+## Projects
+- <a href="https://github.com/Magn/Detectio">Detection Lab</a>
+- <a href="https://github.com/Mago/Mal">Malware Analysis Lab</a>
 
 
 
-<h2>Credentials:</h2>
-<ul>
-<li> B.Eng in Engineering from UNIBEN. </li>
-<li> 4 certifications, including PNPT, PJPT, CNSP, and CAP. </li>
-<li> Pwned 35 HTB machines and mastered 122 THM rooms. </li>
-<li> Pursuing CPTS certification and MS in Cybersecurity at Miva Open University. </li>
-</ul>
 
