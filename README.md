@@ -11,6 +11,9 @@
   <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
   <img src="https://img.shields.io/badge/-Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
 </a>
+   <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-FF6D00?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 
