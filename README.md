@@ -19,7 +19,7 @@ Passionate about solving complex problems, I work on proactive defense strategie
 <li> B.Eng in Engineering from UNIBEN. </li>
 <li> 4 certifications, including PNPT, PJPT, CNSP, and CAP. </li>
 <li> Pwned 35 HTB machines and mastered 122 THM rooms. </li>
-<li> Pursuing CPTS certification and MS in Cybersecurity at Miva University. </li>
+<li> Pursuing CPTS certification and MS in Cybersecurity at Miva Open university. </li>
 </ul>
 
 
