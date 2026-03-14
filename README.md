@@ -48,14 +48,14 @@ Passionate about solving complex problems, I work on proactive defense strategie
 <img src="https://img.shields.io/badge/-Hashcat-4B0082?style=for-the-badge&logo=Hashcat&logoColor=white" />
 </div>
 
-### Network
+### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDUMP-EF3B2D?&style=for-the-badge&logo=TCPDUMP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-777BB4?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
